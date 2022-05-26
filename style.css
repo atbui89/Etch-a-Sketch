@@ -1,0 +1,13 @@
+#gridContainer {
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    padding: 10px;
+  }
+
+#cells {
+    border: 1px solid grey;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
